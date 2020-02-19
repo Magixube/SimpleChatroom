@@ -1,0 +1,25 @@
+.DS_Store
+node_modules
+/dist
+vendor
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+php_errors.log
+
+# Editor directories and files
+.idea
+.vscode
+.editorconfig
+.prettierrc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
